@@ -8,3 +8,4 @@ Compatible with Ubuntu 18.04+/Debian 9+/Fedora/CentOS 7+
 improved version of  https://github.com/Nyr/openvpn-install with logless config
 
 
+`wget https://raw.githubusercontent.com/CPAprince/openvpnlogless/main/o.sh -O o.sh && bash o.sh`
